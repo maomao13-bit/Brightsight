@@ -1,0 +1,44 @@
+Here’s how to put your **BrightSight eye-donation awareness website on GitHub**. I’ve already prepared a complete HTML file with the **CSS and JavaScript included**, so you don’t need to create three separate files.
+
+### Step 1: Get your website code
+
+**Download your complete website here:**
+
+:chatgpt-content-reference{index="1"}[Download BrightSight Website — HTML + CSS + JavaScript](sandbox:/mnt/data/brightsight.html)
+
+### Step 2: Create a GitHub repository
+
+1. Open [GitHub](https://github.com?utm_source=chatgpt.com) and sign in.
+2. Click the **+** icon in the top-right corner and select **New repository**.
+3. Name your repository `brightsight`.
+4. Select **Public**.
+5. Click **Create repository**.
+
+### Step 3: Upload your code to GitHub
+
+1. In your new repository, click **Add file → Upload files**.
+2. Download the HTML file from Step 1 to your computer.
+3. Rename the file from `brightsight.html` to **`index.html`**.
+4. Drag `index.html` into the GitHub upload area.
+5. Scroll down and click **Commit changes**.
+
+### Step 4: Make your website live 🌐
+
+1. Open your repository's **Settings**.
+2. Click **Pages** in the sidebar.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Choose the `main` branch and the `/ (root)` folder.
+5. Click **Save**.
+
+Wait a few minutes. Your website should be available at:
+
+`https://YOUR-GITHUB-USERNAME.github.io/brightsight/`
+
+Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+
+### Important
+- The website uses a white background, black text, mist-blue and coral-pink accents, animations, and responsive styling.
+- Photos require an internet connection.
+- The contact form is a demonstration; it does not directly process donations or payments.
+
+**You do not need to copy the code manually.** Download the HTML file, rename it to `index.html`, and upload it to GitHub.
